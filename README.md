@@ -3,7 +3,7 @@ Absolutely! Here's an updated `README.md` that reflects your **cleaned and refin
 
 ---
 
-### 📄 `README.md` – Updated Version (Post-Cleaning)
+###  `README.md` – Updated Version (Post-Cleaning)
 
 ```markdown
 # Customer Payment Behavior and Risk: A Business Intelligence Case Study
