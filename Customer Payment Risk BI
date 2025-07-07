@@ -1,0 +1,22 @@
+customer-payment-risk-bi/
+│
+├── README.md                   ← Your case study overview (from earlier)
+├── LICENSE                     ← Optional: MIT or Creative Commons license
+├── .gitignore                  ← Ignore files like `.Rhistory`, `.DS_Store`, etc.
+│
+├── data/                       ← Raw and cleaned datasets
+│   ├── raw/                    ← Original files (e.g. LendingClub.csv)
+│   └── cleaned/                ← Cleaned CSVs (e.g. loans_2018_2020_cleaned.csv)
+│
+├── scripts/                    ← R or Python scripts used for cleaning & EDA
+│   └── clean_transform.R       ← Data cleaning + feature engineering code
+│
+├── visuals/                    ← Exported charts/images
+│   ├── heatmap_income_grade.png
+│   └── bar_rir_purpose.png
+│
+├── dashboard/                  ← Tableau files
+│   └── tableau_link.txt        ← Paste your Tableau Public URL here
+│
+└── docs/                       ← Optional: Exported PDF case study or additional notes
+    └── Customer_Risk_Case_Study.pdf
