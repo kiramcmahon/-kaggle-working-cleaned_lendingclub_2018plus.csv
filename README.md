@@ -1,5 +1,5 @@
 # -kaggle-working-cleaned_lendingclub_2018plus.csv
-Absolutely! Here's an updated `README.md` that reflects your **cleaned and refined dataset**, prepared specifically for your Tableau dashboard and portfolio project.
+Here's an updated `README.md` that reflects your **cleaned and refined dataset**, prepared specifically for your Tableau dashboard and portfolio project.
 
 ---
 
